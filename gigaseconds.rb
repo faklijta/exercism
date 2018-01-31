@@ -5,4 +5,3 @@ class Gigasecond
 end
 
 puts(Gigasecond.from(Time.utc(1984, 4, 13)))
-print(Gigasecond.from(Time.utc(2012, 11, 24)))
